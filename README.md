@@ -11,4 +11,4 @@ Multinomial Naive Bayes classifier
 sklearn (TF-IDF, train_test_split, MultinomialNB, accuracy_score)
 
 📬 Contact
-Vansh Bhimani-vanshbhimani1@gmail.com
+Vansh Bhimani - vanshbhimani1@gmail.com
