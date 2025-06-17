@@ -1,1 +1,1 @@
-# nlp
+Welcome to the Natural Language Processing (NLP) Project Repository. This repository contains various NLP models, preprocessing scripts, and notebooks covering multiple NLP tasks such as text classification, sentiment analysis, word embeddings, and topic modeling.
